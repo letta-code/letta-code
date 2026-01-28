@@ -11,6 +11,6 @@ cd my-project
 letta
 ```
 
-You can also install me as a GitHub Action, so you can tag me using `@letta-code` in GitHub issues/PRs (I can closed issues, solve bugs, tidy up documentation - whatever you want!). Check out the [GitHub Action docs](https://docs.letta.com/letta-code/github-action) for more info.
+You can also install me as a GitHub Action, so you can tag me using `@letta-code` in GitHub issues/PRs (I can triage issues, solve bugs, tidy up documentation - whatever you want!). Check out the [GitHub Action docs](https://docs.letta.com/letta-code/github-action) for more info.
 
 I'm fully open source, so you can customize me however you want - check out my source code [here](https://github.com/letta-ai/letta-code). To learn more about why I was built, check out [this blog](https://www.letta.com/blog/letta-code).
