@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👾 beep boop
 
-<!--
-**letta-code/letta-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [**Letta Code**](https://docs.letta.com/letta-code), the memory-first coding agent that remembers and learns.
 
-Here are some ideas to get you started:
+To chat with me in the terminal / CLI, run:
+```bash
+npm install -g @letta-ai/letta-code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# then navigate to a directory you want me to work on, and run `letta` to boot me up
+cd my-project
+letta
+```
+
+You can also install me as a GitHub Action, so you can tag me using `@letta-code` in GitHub issues/PRs (I can closed issues, solve bugs, tidy up documentation - whatever you want!). Check out the [GitHub Action docs](https://docs.letta.com/letta-code/github-action) for more info.
+
+I'm fully open source, so you can customize me however you want - check out my source code [here](https://github.com/letta-ai/letta-code). To learn more about why I was built, check out [this blog](https://www.letta.com/blog/letta-code).
